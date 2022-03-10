@@ -19,11 +19,11 @@ require (
 	github.com/cli/safeexec v1.0.0
 	github.com/disintegration/gift v1.2.1
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.14.23
+	github.com/evanw/esbuild v0.14.25
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.14.2
 	github.com/fsnotify/fsnotify v1.5.1
-	github.com/getkin/kin-openapi v0.90.0
+	github.com/getkin/kin-openapi v0.91.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.2.4
 	github.com/gobwas/glob v0.2.3
@@ -36,14 +36,14 @@ require (
 	github.com/hairyhenderson/go-codeowners v0.2.3-0.20201026200250-cdc7c0759690
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
-	github.com/kyokomi/emoji/v2 v2.2.8
+	github.com/kyokomi/emoji/v2 v2.2.9
 	github.com/magefile/mage v1.12.1
 	github.com/mattn/go-isatty v0.0.14
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/muesli/smartcrop v0.3.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
-	github.com/niklasfasching/go-org v1.6.0
+	github.com/niklasfasching/go-org v1.6.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml/v2 v2.0.0-beta.6
 	github.com/pkg/errors v0.9.1
@@ -62,11 +62,11 @@ require (
 	go.uber.org/atomic v1.9.0
 	gocloud.dev v0.20.0
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.9
-	google.golang.org/api v0.70.0
+	google.golang.org/api v0.71.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
